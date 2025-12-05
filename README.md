@@ -7,7 +7,7 @@ Aplikasi mobile untuk manajemen inventaris barang kategori komputer, dibangun me
 ---
 
 ## Identitas
-Nama  : Ayu Fitrianingsih
-NIM  : H1D023038
-Shift  : B/E
-Linf vidio : 
+* Nama  : Ayu Fitrianingsih
+* NIM  : H1D023038
+* Shift  : B/E
+*Linf vidio : 
